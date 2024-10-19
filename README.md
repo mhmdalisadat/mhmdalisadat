@@ -1,13 +1,11 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ali! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a strong focus on building high-performance, responsive, and user-friendly web applications. My expertise lies in **React.js** and **TailwindCSS**, but I also work with a variety of other web technologies.
-
+Welcome to my GitHub profile! Im skilled front-end developer.
 ---
 
 ## 🚀 About Me
 
 - 🌱 I’m constantly learning and experimenting with new technologies to improve my skills.
-- 🔭 I’m currently working on projects that leverage **React.js** for complex UI and **TailwindCSS** for rapid and scalable styling.
 - 🤝 I’m open to collaborating on exciting front-end projects.
 - 🛠️ I enjoy solving UI/UX challenges, optimizing web applications for performance, and building accessible websites.
 - ✨ Passionate about clean code, reusable components, and pixel-perfect design.
@@ -18,27 +16,29 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a st
 
 ### **Languages and Frameworks**
 
-- **React.js** - Expert in building dynamic, component-driven UIs.
-- **TailwindCSS** - Mastering utility-first CSS for rapid styling.
-- **JavaScript (ES6+)** - Strong proficiency in modern JavaScript.
-- **TypeScript** - Typing the untyped for more predictable and scalable apps.
-- **Next.js** - Leveraging SSR and SSG for fast, SEO-friendly apps.
-- **HTML5** & **CSS3** - The foundations of any great front-end.
-- **SASS/SCSS** - CSS with superpowers.
-- **Redux** - State management for complex applications.
+- React.js - Expert in building dynamic, component-driven UIs.
+- TailwindCSS - Mastering utility-first CSS for rapid styling.
+- JavaScript (ES6+) - Strong proficiency in modern JavaScript.
+- TypeScript - Typing the untyped for more predictable and scalable apps.
+- Next.js - Leveraging SSR and SSG for fast, SEO-friendly apps.
+- Framer Motion - add life to our websites.
+- tanStack quries - simple ajax requests
+- HTML5 & CSS3 - The foundations of any great front-end.
+- SASS/SCSS - CSS with superpowers.
+- Redux - State management for complex applications.
 
-### **Tools and Platforms**
+### Tools and Platforms
 
-- **Git** & **GitHub** - Version control and collaboration.
-- **Vite** & **Webpack** - Fast development and optimized builds.
-- **VS Code** - My editor of choice for everything code-related.
-- **Figma** & **Adobe XD** - Translating designs into code.
+- Git & GitHub - Version control and collaboration.
+- Vite & Webpack - Fast development and optimized builds.
+- Figma - Translating designs into code.
 
 ### **Libraries and UI Frameworks**
 
 - **MUI** (Material-UI) - Bringing material design to life.
 - **React Query** - Simplifying API calls and data fetching.
 - **Axios** - Making HTTP requests smooth and easy.
+- 
 
 ---
 
