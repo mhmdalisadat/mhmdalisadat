@@ -51,21 +51,6 @@ Welcome to my GitHub profile! Im skilled front-end developer.
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 
-## 📂 Featured Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-A brief description of what this project is about, and what technologies you used.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-A brief description of this project, its purpose, and how React and Tailwind were used to solve particular challenges.
-
----
-
-Thanks for stopping by! 😊
-****
