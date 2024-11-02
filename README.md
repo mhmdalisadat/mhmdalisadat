@@ -55,17 +55,7 @@ Welcome to my GitHub profile! Im skilled front-end developer.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
----
 
-## 💬 Let's Connect
-
-- **Portfolio:** [your-portfolio-link](https://your-portfolio-link)
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/yourprofile)
-- **Email:** [your-email](mailto:your-email)
-
-Feel free to reach out if you have a cool project in mind or just want to talk about front-end development!
-
----
 
 ## 📂 Featured Projects
 
