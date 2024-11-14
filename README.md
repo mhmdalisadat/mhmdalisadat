@@ -1,56 +1,26 @@
 # Hi there, I'm Ali! 👋
 
-Welcome to my GitHub profile! Im skilled front-end developer.
----
+# 💫 About Me:
+🌱 I’m constantly learning and experimenting with new technologies to improve my skills.<br>🤝 I’m open to collaborating on exciting front-end projects.<br>🛠️ I enjoy solving UI/UX challenges, optimizing web applications for performance, and building accessible websites.<br>✨ Passionate about clean code, reusable components, and pixel-perfect design.
 
-## 🚀 About Me
 
-- 🌱 I’m constantly learning and experimenting with new technologies to improve my skills.
-- 🤝 I’m open to collaborating on exciting front-end projects.
-- 🛠️ I enjoy solving UI/UX challenges, optimizing web applications for performance, and building accessible websites.
-- ✨ Passionate about clean code, reusable components, and pixel-perfect design.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mhmdalisadat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmd.ali.sadat) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mohammadalisadat20) 
 
----
+# 💻 Tech Stack:
+![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mhmdalisadat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhmdalisadat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdalisadat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Technologies & Tools
-
-### **Languages and Frameworks**
-
-- React.js - Expert in building dynamic, component-driven UIs.
-- TailwindCSS - Mastering utility-first CSS for rapid styling.
-- JavaScript (ES6+) - Strong proficiency in modern JavaScript.
-- TypeScript - Typing the untyped for more predictable and scalable apps.
-- Next.js - Leveraging SSR and SSG for fast, SEO-friendly apps.
-- Framer Motion - add life to our websites.
-- tanStack quries - simple ajax requests
-- HTML5 & CSS3 - The foundations of any great front-end.
-- SASS/SCSS - CSS with superpowers.
-- Redux - State management for complex applications.
-
-### Tools and Platforms
-
-- Git & GitHub - Version control and collaboration.
-- Vite & Webpack - Fast development and optimized builds.
-- Figma - Translating designs into code.
-
-### **Libraries and UI Frameworks**
-
-- **MUI** (Material-UI) - Bringing material design to life.
-- **React Query** - Simplifying API calls and data fetching.
-- **Axios** - Making HTTP requests smooth and easy.
-- 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mhmdalisadat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mhmdalisadat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 What I Do
-
-- **Responsive Web Design:** I build applications that look great on all screen sizes, with a mobile-first approach.
-- **Reusable Components:** My goal is to create scalable components that can be reused across multiple projects.
-- **Performance Optimization:** I focus on fast load times and smooth interactions by optimizing code, lazy loading, and efficient data management.
-- **Clean & Maintainable Code:** I believe in writing code that is easy to understand and maintain for long-term scalability.
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
