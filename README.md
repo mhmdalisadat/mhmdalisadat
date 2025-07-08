@@ -1,7 +1,7 @@
 # Hello my friend , I'm Ali , just a software engineer nothing else! 👋
 
 ## 💫 About Me:
-🤝 . Im just a cuirios man that wanna change the world a little bit better.
+🤝 . I'm just a curious person that wanna change the world a little bit better.
 
 ---
 
