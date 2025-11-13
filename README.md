@@ -15,6 +15,4 @@
 <a href="https://linkedin.com/in/mhmdalisadat" target="_blank" style="margin-right: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35" height="35"/>
 </a>
-<a href="https://github.com/mhmdalisadat" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" width="35" height="35"/>
-</a>
+
