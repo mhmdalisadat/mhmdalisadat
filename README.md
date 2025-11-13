@@ -6,13 +6,13 @@
 ---
 
 ## 🌐 Connect with me:
-<a href="https://t.me/alisadatdev" target="_blank">
+<a href="https://t.me/alisadatdev" target="_blank" style="margin-right: 15px;">
   <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="35" height="35"/>
 </a>
-<a href="https://instagram.com/mhmd.ali.sadat" target="_blank">
+<a href="https://instagram.com/mhmd.ali.sadat" target="_blank" style="margin-right: 15px;">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" height="35"/>
 </a>
-<a href="https://linkedin.com/in/mhmdalisadat" target="_blank">
+<a href="https://linkedin.com/in/mhmdalisadat" target="_blank" style="margin-right: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35" height="35"/>
 </a>
 <a href="https://github.com/mhmdalisadat" target="_blank">
