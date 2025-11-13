@@ -6,7 +6,15 @@
 ---
 
 ## 🌐 Connect with me:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="35" height="35"/>](https://t.me/alisadatdev)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>](https://linkedin.com/in/mhmdalisadat)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35"/>](https://github.com/mhmdalisadat)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" height="35"/>](https://instagram.com/mhmd.ali.sadat)
+<a href="https://t.me/alisadatdev" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="35" height="35"/>
+</a>
+<a href="https://instagram.com/mhmd.ali.sadat" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" height="35"/>
+</a>
+<a href="https://linkedin.com/in/mhmdalisadat" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35"/>
+</a>
+<a href="https://github.com/mhmdalisadat" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/181717" width="35" height="35"/>
+</a>
